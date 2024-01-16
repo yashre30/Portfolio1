@@ -1,0 +1,14 @@
+<div class="row">
+                    <div class="image1">
+                        <label for="clintemail" class="form-label" ><h3>Linked-In</h3></label>
+                        <a href="https://www.linkedin.com/in/shreya-kavi-91168025b/">
+                          <img src="image/linked.jpg" alt="" height="70vw">
+                        </a> 
+                    </div>
+                    <div class="image1">
+                      <label for="clintphone" class="form-label"><h3>Git-HUb</h3></label>
+                      <a href="https://github.com/yashre30">
+                        <img src="image/github.jpg" alt="" height="70vw">
+                      </a>
+                    </div>
+                </div> 
